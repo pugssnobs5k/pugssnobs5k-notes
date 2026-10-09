@@ -1,6 +1,6 @@
-# Reading — day 281
+# Notes — day 281
 
-- reviewed rust notes
+- reviewed python notes
 - outlined a script
-- next: read docs
-- seed: 2e3ab413
+- next: benchmark
+- seed: 69239c5d
